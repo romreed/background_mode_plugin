@@ -1,6 +1,6 @@
 name: background_mode_new
 description: Package to perform infinite background execution (Android only).
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/wendellrocha/background_mode_plugin
 
 environment:
